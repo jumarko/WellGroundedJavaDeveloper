@@ -1,4 +1,3 @@
-import scala.util.parsing.json.JSONObject
 val name = "Jurko"
 println(s"Ahoj $name")
 
